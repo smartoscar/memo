@@ -35,21 +35,21 @@
 
 ## 搜索资源网站工具：
 
-1.Bing 国际版：https://cn.bing.com/
-2.DuckDuckGo：https://duckduckgo.com/
-3.Stack Overflow：https://stackoverflow.com/
-4.Gitlogs：https://www.gitlogs.com/
+1. Bing 国际版：https://cn.bing.com/
+2. DuckDuckGo：https://duckduckgo.com/
+3. Stack Overflow：https://stackoverflow.com/
+4. Gitlogs：https://www.gitlogs.com/
 Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们通过他可以快速找到想要项目。
-5.文档搜索引擎 jiumo search 鸠摩搜书：https://www.jiumodiary.com/
-6.Ebooke：https://ebookee.org/
-7.图标搜索：https://www.iconfinder.com/
-8.TinEye：https://www.tineye.com
-9.SemanticScholar：https://www.semanticscholar.org/
-10.LibreStock：https://librestock.com/
-11.CC Search：https://ccsearch.creativecommons.org/
-12.Pexels：https://www.pexels.com/
-13.Unsplash：https://unsplash.com/
-14.The App Store：https://theappstore.org/
+5. 文档搜索引擎 jiumo search 鸠摩搜书：https://www.jiumodiary.com/
+6. Ebooke：https://ebookee.org/
+7. 图标搜索：https://www.iconfinder.com/
+8. TinEye：https://www.tineye.com
+9. SemanticScholar：https://www.semanticscholar.org/
+10. LibreStock：https://librestock.com/
+11. CC Search：https://ccsearch.creativecommons.org/
+12. Pexels：https://www.pexels.com/
+13. Unsplash：https://unsplash.com/
+14. The App Store：https://theappstore.org/
 
 ## 在线画图工具：
 
