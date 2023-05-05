@@ -5,4 +5,4 @@
 4. [微服务架构渐进考虑](https://zhuanlan.zhihu.com/p/557552265)
 
 ## 参考工具
-[Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
+1. [Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
