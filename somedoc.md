@@ -4,6 +4,7 @@
 3. [MapStruct使用指南](https://juejin.cn/post/6956190395319451679)
 4. [微服务架构渐进考虑](https://zhuanlan.zhihu.com/p/557552265)
 5. [SpringBoot集成kafka全面实战](https://blog.csdn.net/weixin_70730532/article/details/125425798)
+6. [spring boot kafka初试，多线程尝试](https://blog.csdn.net/fengyujiancheng_93/article/details/118801918)
 
 ## 参考工具
 1. [Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
