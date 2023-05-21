@@ -22,6 +22,18 @@
 19. lombok
 20. Activate-power-mode
 
+21. String Manipulation
+22. CamelCase
+23. RestfulToolkit
+24. Leetcode Editor
+25. Json Prase
+26. Redis Helper
+27. stackoverflow
+28. IDEA Mind Map
+29. Rainbow Brackets
+30. easy_javadoc
+31. Git Auto Pull
+
 ----------------------------------------------------------
 
 1. Key Promoter X
