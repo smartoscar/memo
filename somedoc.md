@@ -8,3 +8,6 @@
 
 ## 参考工具
 1. [Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
+
+## 问题查询
+1. [容器环境下IP跨网闸映射kafka部署](https://blog.csdn.net/weixin_38932035/article/details/115459556)
